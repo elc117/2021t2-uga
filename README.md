@@ -1,6 +1,6 @@
 # Trabalho 2 de paradigmas de programação
 ## Alunos
-Augusto Pagnossim Frigo
+Augusto Pagnossim Frigo e 
 Gustavo Machado de Freitas
 ## Professora
 Andrea Charao
