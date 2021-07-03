@@ -8,5 +8,5 @@ Andrea Charao
 ## Descrição
 O trabalho foi desenvolvido visando à apresentação bem-humorada do funcionamento de funções anônimas em javascript. Foram utilizados elementos de edição de vídeo, slides e códigos, explicando o funcionamento das referidas funções.
 
-# Link
- O vídeo pode ser acessado [aqui](https://drive.google.com/file/d/11mZoDpQoxxYBWW-nlPmttSEnSjA2eBoC/view).
+# Vídeo
+ O vídeo pode ser clicando [aqui](https://drive.google.com/file/d/11mZoDpQoxxYBWW-nlPmttSEnSjA2eBoC/view). Além disso, neste repositório, consta o PDF que criamos como base para o trabalho, e que informa as fontes de pesquisa consultadas.
